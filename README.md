@@ -46,14 +46,18 @@ or
 
 ### Installation
 
-1. Download the [Latest Release] from the right side of this page, or click [Latest Release].
-2. If on Chrome/Brave browser, you'll be prompted to install it. Follow the prompts.
-3. Once installed, right-click on the icon in the upper right corner of the browser. You may need to click the puzzle piece the see it. Then choose *Options*. Put your API KEY from Digitex in the popup. 
-4. Profit
+1. Download the [Latest Release] from the right side of this page, or click [Latest Release] and unzip the .zip file to a permanent directory.
+2. On Chrome or Brave,  go to Settings -> Tools -> Extensions
+3. Enable developer mode
+4. Click "Load unpacked extention"
+5. Browse to the unpacked folder and install your extention 
+6. Disable developer mode
+6. Right-click on the icon in the upper right corner of the browser. You may need to click the puzzle piece the see it. Then choose *Options*. Put your API KEY from Digitex in the popup. 
+7. Profit
 
 ### Updating
 
-The extension should auto update itself. Ff it doesnt, please open an issue.
+You will be notified when there is a new release.
 
 ### Todos
 
