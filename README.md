@@ -97,4 +97,4 @@ MIT
    [Digitex Futures Exchange]: <https://exchange.digitexfutures.com/>
    [Buy Lambo(t)]: <https://lambot.app>
    [API KEY]: <https://exchange.digitexfutures.com/profile/api>
-   [Latest Release] <https://github.com/Your-Name-Here/DigitexMod/releases/download/v1.0/DigitexMod.crx>
+   [Latest Release]: <https://github.com/Your-Name-Here/DigitexMod/releases/download/v1.0/DigitexMod.crx>
