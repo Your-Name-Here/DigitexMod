@@ -1,0 +1,14 @@
+body {
+    background-color: #313131;
+    color: #b1b1b1;
+}
+img {
+    margin: auto;
+    margin-bottom: 20px;
+}
+button {
+    width: 100%;
+    margin-bottom: 10px;
+    color: #38b1dc;
+    background-color: rgba(56,177,220,.1);
+}
