@@ -1,9 +1,10 @@
 {
     "manifest_version": 2,
     "name": "Digitex Mod Extention",
-    "version": "0.1",
+    "version": "1.0.0",
     "description": "A collection of functionality that I felt was missing from the Digitex exchange.",
     "homepage_url": "https://github.com/Your-Name-Here/Digitex-Mods",
+    "update_url": "https://raw.githubusercontent.com/Your-Name-Here/DigitexMod/main/updates.xml",
     "options_ui": {
         "chrome_style": true,
         "page": "options.html"
