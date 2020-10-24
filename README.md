@@ -46,7 +46,7 @@ or
 
 ### Installation
 
-1. Download the latest release from the right side of this page.
+1. Download the [Latest Release] from the right side of this page, or click [Latest Release].
 2. If on Chrome/Brave browser, you'll be prompted to install it. Follow the prompts.
 3. Once installed, right-click on the icon in the upper right corner of the browser. You may need to click the puzzle piece the see it. Then choose *Options*. Put your API KEY from Digitex in the popup. 
 4. Profit
@@ -97,3 +97,4 @@ MIT
    [Digitex Futures Exchange]: <https://exchange.digitexfutures.com/>
    [Buy Lambo(t)]: <https://lambot.app>
    [API KEY]: <https://exchange.digitexfutures.com/profile/api>
+   [Latest Release] <https://github.com/Your-Name-Here/DigitexMod/releases/download/v1.0/DigitexMod.crx>
